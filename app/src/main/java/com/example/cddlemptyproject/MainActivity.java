@@ -28,9 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-    private Connection localConn;
-    private Connection secureLocalConn;
-    private CDDL cddl;
+
 
 
     @Override
